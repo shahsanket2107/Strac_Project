@@ -1,0 +1,8 @@
+{
+  "name": "Strac_Assignment",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google-cloud/pubsub": "^3.4.1",
+    "googleapis": "^114.0.0"
+  }
+}
